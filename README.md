@@ -1,3 +1,3 @@
 # making-layouts-with-bootstrap
 making layouts with bootstrap4 and mockup design freepik
-![imagens-do-jogo](https://github.com/Mr-Fullstack/making-layouts-with-bootstraps/blob/master/bmockup-01.jpg)
+![layout-01](https://mr-fullstack.github.io/making-layouts-with-bootstrap/layout-01/)
